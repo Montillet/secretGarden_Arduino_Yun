@@ -1,2 +1,2 @@
 # secretGarden_Arduino_Yun
-C++ code that run on an arduino Yun board. It sends datas of sensors to the Secret Garden website
+C++ code that runs on an arduino Yun board. It sends data of sensors to the Secret Garden website
